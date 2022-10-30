@@ -1,2 +1,2 @@
-# product-preview-card-component-main
+# git-project
 the challenge of frontendmentor.io
